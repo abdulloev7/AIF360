@@ -1,3 +1,5 @@
+> **Fork note (Data Wrangling, Assignment 4).** This is a fork of [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360). My evaluation of the Reweighing algorithm on the Adult, German and COMPAS datasets is in the folder [`assignment4_reweighing`](assignment4_reweighing/). See [its README](assignment4_reweighing/README.md) for the exact steps to reproduce the results. The rest of the repository is the original AIF360 code, unchanged.
+
 # AI Fairness 360 (AIF360)
 
 [![Continuous Integration](https://github.com/Trusted-AI/AIF360/actions/workflows/ci.yml/badge.svg)](https://github.com/Trusted-AI/AIF360/actions/workflows/ci.yml)
